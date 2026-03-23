@@ -17,3 +17,7 @@ Personal development log — notes, findings, and ongoing work.
 - Improved error handling in edge cases
 - Noted known limitation in docs
 - Updated .gitignore to exclude build artifacts
+
+## 2026-03-23
+- Drafted initial implementation plan for v2
+- Added basic retry logic for network requests
